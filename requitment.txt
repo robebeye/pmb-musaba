@@ -1,0 +1,4 @@
+1.Data Siswa yang daftar Online
+2.input ujian
+	-kode soal , soal gambar, gambar soal . jawaban a-e , kunci jawaban.
+	-simpan- clear
